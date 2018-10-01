@@ -21,3 +21,11 @@ int main()
 
 	git push - u origin master
 */
+// 커밋 삭제
+/*
+	$ git rm -r --cached "지울 폴더 명"
+
+	$ git commit -m "커밋"
+
+	git push - u origin master
+*/
